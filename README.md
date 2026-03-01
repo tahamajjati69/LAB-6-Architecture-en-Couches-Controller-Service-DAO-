@@ -46,3 +46,16 @@ project/
 ├── test/
 │   └── test_lab4.php
 └── README.md
+```
+ Example Execution
+
+<img width="771" height="87" alt="image" src="https://github.com/user-attachments/assets/36e98dec-aec1-4b0f-bd1c-a72d720ed92a" />
+
+<img width="1013" height="113" alt="image" src="https://github.com/user-attachments/assets/d3d115bc-d5d3-4722-9c5b-d386aedf30ca" />
+
+ Author
+
+- 👤 Majjati Mohamed Taha
+- 🏫 Programmation orientée objet et fonctionnelle : PHP
+- 🎓 Instructor : Mr. LACHGAR
+- 📅 1 mars 2026
